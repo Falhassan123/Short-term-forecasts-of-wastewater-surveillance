@@ -3,7 +3,7 @@ This GitHub repository contains weekly real-time forecasts of SARS-COV-2 in the 
 
 
 # Model Specification and Forecasting
-We conduct a 2-week forecast based on a 16-week calibration period. The Nonlinear Least Squares estimation method was utilized, with a Normal distribution applied for error modeling.
+We conduct a 2-week forecast based on a 16-week calibration period. The Nonlinear Least Squares estimation method is utilized, with a Normal distribution applied for error modeling.
 
 #Additional Information
 The data presented on the dashboard and used for all forecasts is collected every Saturday from the Centers for Disease Control and Prevention (CDC) [2]. 
